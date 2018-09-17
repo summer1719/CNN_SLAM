@@ -1,5 +1,7 @@
 # README
 
+CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction
+
 *Computer Vision and Intelligence Group, IIT Madras*
 
 <img src=/avatar.png width=500 height=300></img>
